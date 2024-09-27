@@ -27,6 +27,7 @@
 <h3 align="center">Back-End Languages</h3>
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <span class="icon-[vscode-icons--file-type-django]"></span>
 </div>
 
 <h3 align="center">Front-End Languages</h3>
