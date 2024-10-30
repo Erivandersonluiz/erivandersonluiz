@@ -28,7 +28,7 @@
 <h3 align="center">Back-End Languages</h3>
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <a href="https://www.flaticon.com/br/icones-gratis/docker" title="docker ícones">Docker ícones criados por Freepik - Flaticon</a>
+  
 </div>
 
 <h3 align="center">Front-End Languages</h3>
