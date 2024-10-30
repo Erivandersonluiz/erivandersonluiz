@@ -3,6 +3,8 @@
 
 > 👨🏽‍💻 Desenvolvedor Junior
 
+> 👨 suporte tecnico N1 
+
 > 🎓 Técnico de Redes e computadores | 📆 2019 - 2020
 
 
@@ -28,14 +30,31 @@
 <h3 align="center">Back-End Languages</h3>
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
+          
+          
   
 </div>
 
 <h3 align="center">Front-End Languages</h3>
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  
 
+</div>
+
+<h3 align="center">Infraestrutura de Redes </h3>
+<div align="center">
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+          
+
+          
+  
 </div>
 
 ##
