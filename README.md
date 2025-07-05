@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=500&width=435&lines=Olá%2C+Mundo!!;Meu+Nome+é+erivanderson+luiz.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=500&width=435&lines=Olá%2C+Mundo!!;Meu+Nome+é+Erivanderson+Luiz.)](https://git.io/typing-svg)
 
 > 👨🏽‍💻 Desenvolvedor Junior
 
