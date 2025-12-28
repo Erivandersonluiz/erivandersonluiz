@@ -3,11 +3,6 @@
 
 > 👨🏽‍💻 Desenvolvedor Junior
 
-> 👨 suporte tecnico N1 
-
-> 🎓 Técnico de Redes e computadores | 📆 2019 - 2020
-
-
 <div>
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=erivandersonluiz&show_icons=true&count_private=true&theme=tokyonight" alt="Erivanderson Luiz github stats" /> 
   <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivandersonluiz&theme=tokyonight" />
