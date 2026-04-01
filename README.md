@@ -1,111 +1,95 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3500&pause=500&color=00D9FF&width=500&lines=Olá%2C+Mundo!!+👋;Meu+Nome+é+Erivanderson+Luiz.;Desenvolvedor+Back-End+em+evolução!)](https://git.io/typing-svg)
+# 👋 Olá, eu sou Erivanderson Luiz
 
-> "Transformando problemas em soluções com código."
+💻 **Desenvolvedor Back-End Júnior | Python • Django • SQL**
 
----
+Sou desenvolvedor focado em criação de sistemas web e automações, com experiência em Python e bancos de dados.
+Atualmente estou evoluindo minhas habilidades em APIs, arquitetura de sistemas e deploy com Docker.
 
-## 👨🏽‍💻 Sobre mim
-
-Sou desenvolvedor focado em Back-End com Python e Django, com experiência em construção de APIs, integração com banco de dados e desenvolvimento de sistemas web.
-
-🎯 Objetivo: atuar como Desenvolvedor Back-End Jr, contribuindo com soluções eficientes, escaláveis e bem estruturadas.
-
-🚀 Atualmente estudando:
-- APIs REST com Django
-- Docker e deploy
-- Boas práticas de arquitetura e Clean Code
+🎯 **Objetivo:** conquistar uma oportunidade como Desenvolvedor Júnior e crescer na área.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-🔹 **Sistema de SAC (Python + Django)**  
-- Cadastro de chamados e devoluções  
-- Integração com banco de dados  
-- Dashboard com métricas  
+### 💰 Sistema de Finanças Domésticas
 
-🔹 **API de Produtos**  
-- CRUD completo  
-- Integração com PostgreSQL  
-- Estrutura REST  
-
-🔹 **Automação com Python**  
-- Scripts para otimização de processos  
-- Manipulação de dados e relatórios  
+* Controle de receitas e despesas
+* Gráficos (barra e pizza)
+* Exportação para Excel
+* Interface com Tkinter
+  **Tecnologias:** Python, SQLite
 
 ---
 
-## ⚡ Tech Stack
+### 🛒 Sistema de E-commerce (em desenvolvimento)
 
-### 🗂️ Controle de Versão
-<div align="center">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-</div>
+* Cadastro de produtos
+* Carrinho de compras
+* Integração com pagamento (Pix/Boleto)
+* Interface web responsiva
+  **Tecnologias:** Python, Flask/Django, PostgreSQL
 
-### 🗄️ Banco de Dados
-<div align="center">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostgreSQL"/>
-</div>
+---
 
-### ⚙️ Back-End
-<div align="center">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker"/>
-</div>
+## 🧠 Tecnologias
+
+### 🔧 Back-End
+
+* Python
+* Django
+* Flask
+* SQL
 
 ### 🎨 Front-End
-<div align="center">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3"/>
-</div>
 
----
+* HTML5
+* CSS3
 
-## 📊 Nível de Conhecimento
+### 🗄️ Banco de Dados
 
+* PostgreSQL
+* MySQL
+* SQLite
 
+### ⚙️ Ferramentas
+
+* Git & GitHub
+* Docker
+* Apache
+
+### ☁️ Cloud & Monitoramento
+
+* AWS (básico)
+* Grafana
 
 ---
 
 ## 📈 Em evolução
 
-- Arquitetura de software
-- Testes automatizados
-- Clean Code
-- Boas práticas com APIs
+* [x] Python
+* [x] SQL
+* [x] Git/GitHub
+* [ ] Django avançado
+* [ ] APIs REST (Django REST Framework)
+* [ ] Deploy com Docker
+* [ ] Cloud (AWS)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Estudando atualmente
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erivandersonluiz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivandersonluiz&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=erivandersonluiz&theme=tokyonight&hide_border=true" />
-</div>
+* Django REST Framework
+* Docker para deploy
+* Boas práticas de API
+* Estrutura de projetos escaláveis
 
 ---
 
 ## 📬 Contato
 
-<div align="center">
-  <a href="https://linkedin.com/in/erivandersonluiz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:erivandersonfreitas9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+* 💼 LinkedIn: https://linkedin.com/in/erivandersonluiz
+* 📧 Email: erivandersonfreitas29@gmail.com
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=erivandersonluiz&color=00d9ff&style=flat-square&label=Visitantes" />
-</div>
-
+💡 *"Sempre buscando evoluir e transformar código em soluções reais."*
